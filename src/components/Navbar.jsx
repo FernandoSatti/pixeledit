@@ -1,6 +1,6 @@
 import React from "react";
 import {  Navbar as BootstrapNavbar,Container, Nav,} from "react-bootstrap";
-// import { CartWidget } from "./CartWidget.jsx"
+import { CartWidget } from "./CartWidget.jsx"
 import { Link } from "react-router-dom";
 
 export const Navbar = () => {
