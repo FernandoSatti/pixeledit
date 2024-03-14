@@ -28,7 +28,7 @@ export const ItemListContainer = () => {
         <main>
             <div className="div-main">
     <h1 className="h1-header">Contrata nuestro servicio como editores de video</h1>
-    <p>llevamos años de experiencia con diferentes categorías de videos</p>
+    <p className="p-header">llevamos años de experiencia con diferentes categorías de videos</p>
     <Link to={"/nosotros"}>
       <button className="button-header">
         <span>
