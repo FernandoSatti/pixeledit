@@ -1,8 +1,30 @@
-# React + Vite
+#PixelEdit - Plataforma de Edición de Video
+PixelEdit es una plataforma dedicada a la edición de video, ofreciendo una amplia variedad de servicios para satisfacer las necesidades de nuestros clientes. Desde la edición básica hasta proyectos más complejos, nuestro equipo de expertos está aquí para ayudarte a crear contenido visual impactante.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Características principales
 
-Currently, two official plugins are available:
+-Edición de video profesional
+-Personalización y ajustes avanzados
+-Amplia variedad de plantillas y efectos
+-Integración con plataformas de redes sociales
+-Entrega rápida y eficiente
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Tecnologías utilizadas
+-html y css
+-javascript
+-React.js para el frontend
+-Firebase para el almacenamiento de archivos 
+-Bootstrap para el diseño responsive de la navbar
+-React Router para la navegación dentro de la aplicación
+-React Bootstrap para componentes de interfaz de usuario
+-React-Toastify para notificaciones emergentes
+
+#Estructura de Directorios
+-/public: Archivos estáticos y HTML principal.
+-/src: Código fuente de la aplicación.
+-/components: Componentes reutilizables.
+-/context: Contextos de React para la gestión del estado.
+-/hooks: Custom hooks.
+-/styles: Estilos CSS y archivos de estilo.
+-/assets: Archivos multimedia y otros recursos.
+-/pages: Páginas principales de la aplicación.
