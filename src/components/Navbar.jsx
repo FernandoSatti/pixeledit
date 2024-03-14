@@ -41,7 +41,7 @@ export const Navbar = () => {
               PixelEdit
             </BootstrapNavbar.Brand>
           </Link>
-          <BootstrapNavbar.Toggle aria-controls="basic-navbar-nav" />
+          <BootstrapNavbar.Toggle aria-controls="basic-navbar-nav" className="navbar-toggle"/>
           <BootstrapNavbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
               <li className="nav-item">
