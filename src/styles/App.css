@@ -1279,7 +1279,7 @@ ul {
   .itemcart-product-content {
     max-width: 100%;
   }
-  .navbartoggle{
+  .navbar-toggle{
     margin-right: 20px;
   }
   .video-container{
@@ -1396,7 +1396,9 @@ ul {
   .h2-404 {
     font-size: 0.9em;
   }
-  .toggle{
+  .navbar-toggle{
+    margin-right: 20px;
+  }{
     
     margin-right: 20px;
   }
