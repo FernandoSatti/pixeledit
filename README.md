@@ -1,4 +1,4 @@
-#PixelEdit - Plataforma de Edición de Video
+###PixelEdit - Plataforma de Edición de Video
 PixelEdit es una plataforma dedicada a la edición de video, ofreciendo una amplia variedad de servicios para satisfacer las necesidades de nuestros clientes. Desde la edición básica hasta proyectos más complejos, nuestro equipo de expertos está aquí para ayudarte a crear contenido visual impactante.
 
 #Características principales
