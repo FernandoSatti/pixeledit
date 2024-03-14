@@ -29,5 +29,9 @@ PixelEdit es una plataforma dedicada a la edición de video, ofreciendo una ampl
   - `/context`: Contextos de React para la gestión del estado.
   - `/hooks`: Custom hooks.
   - `/styles`: Estilos CSS y archivos de estilo.
-  - `/assets`: Archivos multimedia y otros recursos.
-  - `/pages`: Páginas principales de la aplicación.
+  - `/firebase`: almacenamiento en nube
+
+## Links
+- Github: https://github.com/FernandoSatti/pixeledit
+- Page: pixeledit-plum.vercel.app
+
