@@ -33,5 +33,5 @@ PixelEdit es una plataforma dedicada a la edición de video, ofreciendo una ampl
 
 ## Links
 - Github: https://github.com/FernandoSatti/pixeledit
-- Page: pixeledit-plum.vercel.app
+- Page: https://pixeledit-plum.vercel.app
 
