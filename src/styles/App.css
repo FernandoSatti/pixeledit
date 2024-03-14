@@ -1288,7 +1288,15 @@ ul {
   .p-header{
     font-size: 0.9em;
   }
-  /* Estilos específicos para dispositivos con una resolución entre 448px y 754px */
+  .li-nosotros:hover {
+    background-color: transparent;
+    transition: none;
+    cursor: default;
+    width: auto;
+    border-radius: 0;
+    padding: 0;
+  }
+ 
 }
 
 @media only screen and (min-width: 260px) and (max-width: 447px) {
@@ -1419,4 +1427,12 @@ ul {
 .p-header{
   font-size: 0.7em;
 }
+.li-nosotros:hover {
+    background-color: transparent;
+    transition: none;
+    cursor: default;
+    width: auto;
+    border-radius: 0;
+    padding: 0;
+  }
 }
