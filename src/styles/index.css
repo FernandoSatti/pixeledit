@@ -5,11 +5,12 @@
 :root{
   --bg-gradient:linear-gradient(to right, #8e2de2, #4a00e0);
   --color-primary:#050327;
-  --color-secondary: #79045f;
+  --color-secondary: #6e23af;
   --color-buttons:#03b4fa;
   --text-color-black: #050327;
   --text-color-white: #fff;
 }
+
 
 :root.dark-mode {
   --bg-gradient: linear-gradient(to right, #20025a, #0f0518);
