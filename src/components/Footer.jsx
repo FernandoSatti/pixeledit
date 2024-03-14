@@ -4,13 +4,8 @@ export const Footer = () => {
     return (
     <footer className="footer-border">
         <div className="container">
-            <p>&copy; 2024 PixelEdit. Todos los derechos reservados.</p>
-            <div className="footer-links">
-                <Link to={"/"} >Inicio</Link>
-                <Link to={"/nosotros"} >Acerca de nosotros</Link>
-                <Link to={"/servicios"} >Servicios</Link>
-                <Link to={"/contacto"} >Contacto</Link>
-            </div>
+            
+            
             <div>
                 <p>Contacto: fernandoist98@gmail.com</p>
             </div>
@@ -19,6 +14,7 @@ export const Footer = () => {
                 <Link to={"/"} target="_blank">Twitter</Link>
                 <Link to={"/"} target="_blank">Instagram</Link>
             </div>
+            <p className='p-footer'>&copy; 2024 PixelEdit. Todos los derechos reservados.</p>
         </div>
     </footer>
     )
