@@ -8,7 +8,7 @@ export const Item = ({ product }) => {
 
     const timer = setTimeout(() => {
       setShowDescription(false);
-    }, 2000);
+    }, 4000);
 
     return () => clearTimeout(timer);
   }, []);
