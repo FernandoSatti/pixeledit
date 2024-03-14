@@ -22,14 +22,13 @@ export const ItemCart = ({ product }) => {
             </span>
           </td>
           <td>
-            <button
-              onClick={async () => {
-                updateItem(product.id, count - 1);
-                decrement();
-              }}
-              className="button-cart"
-              type="button"
-            >
+            <button onClick={async () => {
+            if (count > 1) {
+            updateItem(product.id, count - 1);
+            decrement();
+            }
+          }}
+          className="button-cart" type="button">
               -
             </button>
             <span className="span-cart">{count}</span>
