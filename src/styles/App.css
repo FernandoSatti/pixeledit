@@ -1212,16 +1212,6 @@ ul {
   fill: white;
 }
 
-
-
-
-
-
-
-
-
-
-
 /*media querys*/
 @media only screen and (min-width: 755px) and (max-width: 1628px) {
   .form-container {
@@ -1277,8 +1267,10 @@ ul {
   .itemcart-product-content {
     max-width: 100%;
   }
-
-  /* Estilos específicos para dispositivos con una resolución entre 448px y 754px */
+.navbar-toggle{
+    margin-right: 20px;
+}
+  
 }
 
 @media only screen and (min-width: 260px) and (max-width: 447px) {
@@ -1287,8 +1279,6 @@ ul {
     flex-direction: column;
     justify-content: center;
     cursor: pointer;
-
-
   }
 
   .div-main {
@@ -1380,4 +1370,6 @@ ul {
   .h2-404 {
     font-size: 0.9em;
   }
+  .navbar-toggle{
+    margin-right: 20px;
 }
