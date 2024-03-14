@@ -218,14 +218,11 @@
 .div-main {
   position: absolute;
   top: 35%;
-  /* Ajusta según sea necesario */
   left: 50%;
-  /* Ajusta según sea necesario */
   transform: translate(-50%, -50%);
-  /* Centra el div-main en el medio del video */
   text-align: center;
   z-index: 2;
-  /* Asegura que este índice sea más alto que el del video */
+  width: 100%;
   color: var(--text-color-white);
 }
 
