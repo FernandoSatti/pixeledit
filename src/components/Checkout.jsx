@@ -51,7 +51,7 @@ export const Checkout = () => {
     try {
         const ordenCompra = await createOrdenCompra(cliente, totalPrice(), aux2, new Date().toLocaleDateString('es-AR', { timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone }));
 
-        toast.success(`🛒 Muchas gracias por comprar con nosotros, su ID de compra es: ${ordenCompra.id} por un total de $${totalPrice()}. En breve nos contactaremos para realizar envío`, {
+        toast.success(`🛒 Muchas gracias por contratar nuestro servicio, por un total de $${totalPrice()}. le enviaremos un mail con la informacion`, {
             position: "top-right",
             autoClose: 3000,
             hideProgressBar: false,
