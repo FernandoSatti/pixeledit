@@ -389,7 +389,9 @@
   pointer-events: none;
   transform: translateY(96%);
   transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
-
+}
+.content-product.show-description {
+  transform: translateY(0);
 }
 
 .card-product .content-product .heading-product {
