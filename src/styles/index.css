@@ -15,11 +15,12 @@
 :root.dark-mode {
   --bg-gradient: linear-gradient(to right, #20025a, #0f0518);
   --color-primary: #050327;
-  --color-secondary: #6e28ac;
-  --color-buttons: #8e2de2;
+  --color-secondary: #b70bbd;
+  --color-buttons: #97158c;
   --text-color-black: #fff;
   --text-color-white: #ffffff;
 }
+
 
 ::-webkit-scrollbar {
   width: 10px; 
